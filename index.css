@@ -1,0 +1,68 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    background-image: url("images.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 50%;
+    justify-content: center;
+    margin-left: 30%;
+    border-radius: 15px;
+    
+
+}
+.heading{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    margin-top: 2px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pra{
+    color: white;
+    font-size: 20px;
+    margin: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+.todo{
+    color: white;
+    text-align: left;
+    margin-left: 4px;
+    margin-top: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+.pragraph{
+    color: wheat;
+    text-align: justify;
+    margin-left: 3px;
+    font-size:25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top:20px ;
+    padding: 4px;
+}
+.btn{
+    background-color: orange;
+    font-size: 24px;
+    padding: 14px 40px;
+    color: white;
+    font-weight: bold;
+    margin-left: 40%;
+    margin-top: 5%;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 50%;
+    border: none;
+    
+}
+.stop{
+    color: white;
+    text-decoration: underline;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 5%;
+}
